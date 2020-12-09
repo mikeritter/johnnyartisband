@@ -1,2 +1,2 @@
 # johnnyartisband
-the johnny artis band websitr
+the johnny artis band website
